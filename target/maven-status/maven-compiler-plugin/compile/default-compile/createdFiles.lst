@@ -1,7 +1,0 @@
-br/com/example/entities/Product.class
-br/com/example/controllers/ProductController.class
-br/com/example/repositories/ProductRepository.class
-br/com/example/JUnitDemoApplication.class
-br/com/example/services/ProductService.class
-br/com/example/exceptions/ProductNotFoundException.class
-br/com/example/services/ProductServiceImpl.class

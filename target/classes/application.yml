@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: junit-demo
-  logger:
-    level: INFO
