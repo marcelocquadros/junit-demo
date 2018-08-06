@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.example.JUnitDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.678 s - in br.com.example.JUnitDemoApplicationTests

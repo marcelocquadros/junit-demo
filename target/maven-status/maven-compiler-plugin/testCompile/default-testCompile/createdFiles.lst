@@ -1,0 +1,5 @@
+br/com/example/product/ProductRepositoryTest.class
+br/com/example/JUnitDemoApplicationTests.class
+br/com/example/product/ProductControllerIT.class
+br/com/example/product/ProductControllerTest.class
+br/com/example/product/ProductServiceTest.class
